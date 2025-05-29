@@ -30,7 +30,7 @@ Python, SQL, Java
 Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 
 **Big Data & Cloud Technologies**  
-AWS, Apache Spark, Hadoop, AWS, Azure
+AWS, Apache Spark, Hadoop, Azure
 
 **Data Visualization & Tools**  
 Tableau, Power BI, Jupyter Notebook, Git
