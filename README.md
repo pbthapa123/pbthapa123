@@ -10,7 +10,9 @@ I am a Master’s student specializing in **Computer Science – Information Sys
   - **Big Data and Cloud Computing**
   - **Machine Learning**
   - **Data Management and Analytics**
-  - **Software Engineering and System Design**
+  - **Networking and Security**
+  - **Compiler Design**
+  - **Python Programming**
 
 ## 💼 Career Interests
 
@@ -36,6 +38,9 @@ AWS, Apache Spark, Hadoop, Azure
 Tableau, Power BI, Jupyter Notebook, Git
 
 ## 📁 Projects
+
+- **[Project Title – Hand Mirroring Robotics Project](#)**
+- Designed hand mirroring robot using OpenCV and Computer Vision.
 
 
 
