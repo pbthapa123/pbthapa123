@@ -39,10 +39,10 @@ Tableau, Power BI, Jupyter Notebook
 ## 📁 Projects
 
 - **[Project Title – Hand Mirroring Robotics Project]**
-- Designed hand mirroring robot using OpenCV and Computer Vision.
+ Designed hand mirroring robot using OpenCV and Computer Vision.
 
 - **[Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers ]**
-- Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
+  Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
 
 ## 📫 Contact & Networking
 
