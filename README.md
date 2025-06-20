@@ -24,25 +24,25 @@ I am passionate about leveraging data to uncover insights, build predictive mode
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**  
-Python, SQL, Java, MATLAB
+- Programming Languages
+  - **Python, SQL, Java, MATLAB**
 
-**Data Science & Machine Learning**  
-Pandas, NumPy, Matplotlib, Seaborn
+- Python Libraries
+  - **Pandas, NumPy, Matplotlib, Seaborn**
 
-**Big Data & Cloud Technologies**  
-AWS, Apache Spark, Hadoop, Azure
+- Big Data & Cloud Technologies**  
+  - **AWS, Apache Airflow**
 
-**Data Visualization & Tools**  
-Tableau, Power BI, Jupyter Notebook
+- Data Visualization & Tools**  
+  - **Tableau, Power BI, Jupyter Notebook**
 
 ## 📁 Projects
 
-- **[Project Title – Hand Mirroring Robotics Project]**
- Designed hand mirroring robot using OpenCV and Computer Vision.
+**[Project Title – Hand Mirroring Robotics Project]**
+  - Designed hand mirroring robot using OpenCV and Computer Vision.
 
-- **[Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers ]**
-  Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
+**[Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers ]**
+  - Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
 
 ## 📫 Contact & Networking
 
