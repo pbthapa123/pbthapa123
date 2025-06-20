@@ -38,11 +38,11 @@ I am passionate about leveraging data to uncover insights, build predictive mode
 
 ## 📁 Projects
 
-  **1. [Project Title – Hand Mirroring Robotics Project]**
-    - **Designed hand mirroring robot using OpenCV and Computer Vision.**
+  - **[Project Title – Hand Mirroring Robotics Project]**
+        - Designed hand mirroring robot using OpenCV and Computer Vision.
 
-  **2. [Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers]**
-    - **Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.**
+  - **[Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers]**
+        - Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
 
 ## 📫 Contact & Networking
 
