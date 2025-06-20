@@ -1,11 +1,10 @@
-## Hi there 👋
-# Welcome to My GitHub Profile
+## Welcome to My GitHub Profile
 
-I am a Master’s student specializing in **Computer Science – Information Systems**, with a strong academic foundation and practical experience in **Data Analytics**, **Machine Learning**, and **Cloud Computing**. I am actively seeking opportunities where I can contribute to data-driven decision-making and intelligent system design.
+I am a Master’s student in the field of **Computer Science in Information Systems**, with a strong academic foundation, experience and knowledge in **Data Analytics**, **Machine Learning**, and **Cloud Computing**. I am actively seeking opportunities and collaborations where I can contribute to data-driven decision-making and intelligent system design.
 
 ## 🎓 Academic Background
 
-- Pursuing a Master’s degree in Computer Science – Information Systems
+- Pursuing a Master’s degree in Computer Science in Information Systems
 - Completed graduate-level coursework in:
   - **Big Data and Cloud Computing**
   - **Machine Learning**
@@ -26,29 +25,29 @@ I am passionate about leveraging data to uncover insights, build predictive mode
 ## 🛠️ Technical Skills
 
 **Programming Languages**  
-Python, SQL, Java
+Python, SQL, Java, MATLAB
 
 **Data Science & Machine Learning**  
-Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+Pandas, NumPy, Matplotlib, Seaborn
 
 **Big Data & Cloud Technologies**  
 AWS, Apache Spark, Hadoop, Azure
 
 **Data Visualization & Tools**  
-Tableau, Power BI, Jupyter Notebook, Git
+Tableau, Power BI, Jupyter Notebook
 
 ## 📁 Projects
 
-- **[Project Title – Hand Mirroring Robotics Project](#)**
+- **[Project Title – Hand Mirroring Robotics Project]**
 - Designed hand mirroring robot using OpenCV and Computer Vision.
 
-
+- **[Project Title – Accelerating Compilation: A Parallel Approach to Lexical Analysis in Modern Compilers ]**
+- Used the LLVM compiler infrastructure to investigate ways of splitting tokenization into multiple threadsand evaluate the impact on compilation time, memory usage, and precision.
 
 ## 📫 Contact & Networking
 
-- **Email:** sakrishthapa75@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/purna-thapa-50a990162/  
-
+- **Email:** sakrishthapa75@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/purna-thapa-50a990162/)
 ---
 
 Thank you for visiting my profile. I welcome connections and collaborations related to data science, analytics, and machine learning.
