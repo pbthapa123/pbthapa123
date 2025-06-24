@@ -19,8 +19,8 @@ I am passionate about leveraging data to uncover insights, build predictive mode
 
 - **Data Analytics**
 - **Machine Learning**
-- **Cloud-Based Data Engineering**
-- **Business Intelligence**
+- **Artificial Intelligence**
+- **Cloud Computing**
 
 ## 🛠️ Technical Skills
 
